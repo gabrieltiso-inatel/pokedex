@@ -1,0 +1,164 @@
+[
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be7378fa"
+        },
+        "id": 10,
+        "name": "Caterpie",
+        "candy": "Caterpie Candy",
+        "candy_count": 12
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be7378fd"
+        },
+        "id": 13,
+        "name": "Weedle",
+        "candy": "Weedle Candy",
+        "candy_count": 12
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737900"
+        },
+        "id": 16,
+        "name": "Pidgey",
+        "candy": "Pidgey Candy",
+        "candy_count": 12
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be7378f1"
+        },
+        "id": 1,
+        "name": "Bulbasaur",
+        "candy": "Bulbasaur Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be7378f4"
+        },
+        "id": 4,
+        "name": "Charmander",
+        "candy": "Charmander Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be7378f7"
+        },
+        "id": 7,
+        "name": "Squirtle",
+        "candy": "Squirtle Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737903"
+        },
+        "id": 19,
+        "name": "Rattata",
+        "candy": "Rattata Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be73790d"
+        },
+        "id": 29,
+        "name": "Nidoran \u00e2\u2122\u20ac (Female)",
+        "candy": "Nidoran \u00e2\u2122\u20ac (Female) Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737910"
+        },
+        "id": 32,
+        "name": "Nidoran \u00e2\u2122\u201a (Male)",
+        "candy": "Nidoran \u00e2\u2122\u201a (Male) Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be73791b"
+        },
+        "id": 43,
+        "name": "Oddish",
+        "candy": "Oddish Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be73792c"
+        },
+        "id": 60,
+        "name": "Poliwag",
+        "candy": "Poliwag Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be73792f"
+        },
+        "id": 63,
+        "name": "Abra",
+        "candy": "Abra Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737932"
+        },
+        "id": 66,
+        "name": "Machop",
+        "candy": "Machop Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737935"
+        },
+        "id": 69,
+        "name": "Bellsprout",
+        "candy": "Bellsprout Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be73793a"
+        },
+        "id": 74,
+        "name": "Geodude",
+        "candy": "Geodude Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be73794c"
+        },
+        "id": 92,
+        "name": "Gastly",
+        "candy": "Gastly Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737975"
+        },
+        "id": 133,
+        "name": "Eevee",
+        "candy": "Eevee Candy",
+        "candy_count": 25
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737983"
+        },
+        "id": 147,
+        "name": "Dratini",
+        "candy": "Dratini Candy",
+        "candy_count": 25
+    }
+]

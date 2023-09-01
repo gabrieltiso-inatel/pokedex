@@ -1,0 +1,92 @@
+[
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737907"
+        },
+        "name": "Ekans",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737908"
+        },
+        "name": "Arbok",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be73790d"
+        },
+        "name": "Nidoran \u00e2\u2122\u20ac (Female)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be73790e"
+        },
+        "name": "Nidorina",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737910"
+        },
+        "name": "Nidoran \u00e2\u2122\u201a (Male)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737911"
+        },
+        "name": "Nidorino",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737948"
+        },
+        "name": "Grimer",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be737949"
+        },
+        "name": "Muk",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be73795d"
+        },
+        "name": "Koffing",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "64f2351175a0c743be73795e"
+        },
+        "name": "Weezing",
+        "type": [
+            "Poison"
+        ]
+    }
+]
